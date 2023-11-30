@@ -1,4 +1,0 @@
-	rick	morty	john
-rick	0	0.1	0.3
-morty	0.3	0	0.2
-john	0.1	0.3	0
